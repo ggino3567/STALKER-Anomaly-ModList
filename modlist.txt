@@ -7,11 +7,15 @@
 +49 - bullet-shell-sounds
 +48 - Anomaly_Detection_Sound
 +47 - EFT_inventory
-+46 - EFT_Jump_and_Land_SFX
-+45 - EFT_Footsteps_and_Tinnitsus
++45~46 - Dark_signal_footstep_and_jump_Extended
 -45 - AUDIO_separator
++44-1 - NoRadiationGrainFX
 +44 - Arrival
 -44 - ANOMALIES_separator
++43-4 - Trader Overhaul Complete 1.5.2 Main
++43-3 - Grok's Stash Overhaul v2.2.0
++43-2 - Get_out_of_my_way_you_stupid_NPC
++43-1 - First_person_visible_body
 +43 - Loot Without Knife
 +42 - Weapon_Cover_Tilt
 +41 - iTheon_PDA_Taskboard
@@ -47,6 +51,7 @@
 +15 - Yet_Another_Knife_Reanimation_v1.2.3
 +14 - DaskSingalWeaponSound
 +13 - MRAA_Reposition
++12-1 - MRAA_FixPatch
 +12 - MRAA 1.4 Reanimation (DLTX)
 +11 - Anomaly Tacticool Scopes 1.6.3
 -11 - WEAPON_separator
